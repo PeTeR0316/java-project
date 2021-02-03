@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="EUC-KR">
-<title>Insert title here</title>
+<title>sub</title>
 </head>
 <body>
-testtests
+	<h1>Sub Page</h1>
 </body>
 </html>
